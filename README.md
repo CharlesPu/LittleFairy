@@ -128,7 +128,7 @@
 <html>
     <table width="100%" text-align="center">
         <tr>
-            <td width = "500px">
+            <td width="500px">
                 怕相遇  怕相融</br>
                 怕离别  怕重逢</br>
                 怕重逢后离别</br>
@@ -144,7 +144,7 @@
                 怕忘不了你</br>
                 最怕迷失自己</br>
             </td>
-            <td width = "500px">
+            <td width="500px">
                 长日尽处</br>
                 我来到你的面前</br>
                 你将看见我的赤诚</br>
