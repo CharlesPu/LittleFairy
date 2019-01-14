@@ -1,6 +1,6 @@
 # LittleFairy
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table style="width: 100%; margin-left: auto; margin-right: auto;">
         <tr>
             <td>
                 左侧
