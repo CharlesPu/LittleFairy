@@ -3,7 +3,7 @@
 <html>
     <table width="100%">
         <tr>
-            <td width = "50%">
+            <td width="500px">
                 你来</br>
                 所有的风景化为烟柳平沙</br>
                 你走</br>
@@ -11,7 +11,7 @@
                 而我</br>
                 时常在想你和等你的路上</br>
             </td>
-            <td width = "50%">
+            <td width="500px">
                 盼望</br>
                 烂漫格桑映出重云</br>
                 回首</br>
@@ -28,7 +28,7 @@
 <html>
     <table width="100%">
         <tr>
-            <td width = "50%">
+            <td width="500px">
                 恨君不似江楼月</br>
                 南北东西</br>
                 东西南北</br>
@@ -38,7 +38,7 @@
                 常缺暂满</br> 
                 团圆几时？</br>
             </td>
-            <td width = "50%">
+            <td width="500px">
                 长相思，</br>
                 长相思，</br>
                 若问相思何时止？</br>
@@ -57,13 +57,13 @@
 <html>
     <table width="100%">
         <tr>
-            <td width = "50%">
+            <td width="500px">
                 宁国红豆相思苦，</br>
                 伊人却在沪一方。</br>
                 奈何江水重重阻，</br>
                 一见佳人何时节？</br>
             </td>
-            <td width = "50%">
+            <td width="500px">
                 沪上桂子月中落，</br>
                 翘首盈盈望宁国。</br>
                 时时引领向天末，</br>
@@ -78,10 +78,10 @@
 <html>
     <table width="100%">
         <tr>
-            <td width = "50%">
+            <td width="500px">
                 </br>
             </td>
-            <td width = "50%">
+            <td width="500px">
                 其实</br> 
                 我盼望的</br>
                 也不过就只是那一瞬</br>
@@ -103,7 +103,7 @@
 <html>
     <table width="100%">
         <tr>
-            <td width = "50%">
+            <td width="500px">
                 岁月催人近年末，</br>
                 雾霾袭宁阴雨天，</br>
                 大饼温暖如期至，</br>
@@ -111,7 +111,7 @@
                 玄武湖水深千尺，</br>
                 不及离人蒜味浓！</br>
             </td>
-            <td width = "50%">
+            <td width="500px">
                 论文卡人值玄冬，</br>
                 国考周末寒意浓，</br>
                 小仙赤诚声声唤，</br>
@@ -126,9 +126,9 @@
 ---
 ### 2019.01.13
 <html>
-    <table width="100%">
+    <table width="100%" text-align="center">
         <tr>
-            <td width = "50%">
+            <td width = "500px">
                 怕相遇  怕相融</br>
                 怕离别  怕重逢</br>
                 怕重逢后离别</br>
@@ -144,7 +144,7 @@
                 怕忘不了你</br>
                 最怕迷失自己</br>
             </td>
-            <td width = "50%">
+            <td width = "500px">
                 长日尽处</br>
                 我来到你的面前</br>
                 你将看见我的赤诚</br>
